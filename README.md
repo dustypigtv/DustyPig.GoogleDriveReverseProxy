@@ -1,4 +1,4 @@
-[![Auto-Build](https://github.com/dustypigtv/DustyPig.GoogleDrivReverseProxy/actions/workflows/auto_build.yml/badge.svg)](https://github.com/dustypigtv/DustyPig.GoogleDrivReverseProxy/actions/workflows/auto_build.yml)&nbsp;&nbsp;[![Release](https://github.com/dustypigtv/DustyPig.GoogleDrivReverseProxy/actions/workflows/release.yml/badge.svg)](https://github.com/dustypigtv/DustyPig.GoogleDrivReverseProxy/actions/workflows/release.yml)
+[![Auto-Build](https://github.com/dustypigtv/DustyPig.GoogleDriveReverseProxy/actions/workflows/auto_build.yml/badge.svg)](https://github.com/dustypigtv/DustyPig.GoogleDriveReverseProxy/actions/workflows/auto_build.yml)&nbsp;&nbsp;[![Release](https://github.com/dustypigtv/DustyPig.GoogleDriveReverseProxy/actions/workflows/release.yml/badge.svg)](https://github.com/dustypigtv/DustyPig.GoogleDriveReverseProxy/actions/workflows/release.yml)
 
 
 Simple server, meant to sit behind an nginx reverse proxy, to validate file requests
