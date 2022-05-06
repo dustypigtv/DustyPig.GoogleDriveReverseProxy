@@ -25,7 +25,7 @@ server {
 	
 	location = /get_token {
 		internal;
-		proxy_pass http://localhost:6789/verify;
+		proxy_pass http://localhost:6789/tokens;
 		proxy_pass_request_body off;
 		proxy_set_header Content-Length "";
 		proxy_set_header X-Original-URI $request_uri;
